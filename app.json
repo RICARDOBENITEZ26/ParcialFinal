@@ -1,0 +1,6 @@
+{
+  "name": "PHP-based REST project example",
+  "description": "Definifing and creating php-based rest services by using slim php framework",
+  "repository": "https://gitlab.com/usb-web-programming-autumn-2023/php/rest-master",
+  "addons": []
+}
